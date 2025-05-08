@@ -1,0 +1,14 @@
+@TempoDeJogoAPI_HostAddress = http://localhost:5005
+
+GET {{TempoDeJogoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+POST {{TempoDeJogoAPI_HostAddress}}/api/tempo/salvar
+Content-Type: application/json
+
+{
+    "UsuarioId": 1,
+    "Tempo": 120
+}
+
+###
