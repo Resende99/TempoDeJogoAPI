@@ -20,8 +20,12 @@ C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\Microsoft.IdentityMode
 C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
 C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\Microsoft.SqlServer.Server.dll
 C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\System.Configuration.ConfigurationManager.dll
 C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\System.Drawing.Common.dll
 C:\Users\Samuel\TempoDeJogoAPI\bin\Release\net8.0\publish\System.IdentityModel.Tokens.Jwt.dll

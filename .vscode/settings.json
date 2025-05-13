@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/c576aec2-12e0-411c-a652-721bb19547b3/resourceGroups/minhaApiparajogo_group/providers/Microsoft.Web/sites/minhaApiparajogo"
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TempoDeJogoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efa66212d5532268d41258c249301f29a1fff673")]
 [assembly: System.Reflection.AssemblyProductAttribute("TempoDeJogoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TempoDeJogoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
